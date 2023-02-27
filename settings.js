@@ -10,31 +10,31 @@ global.panel = new Nodeactyl.NodeactylApplication(
 global.baseUrlApi = 'https://api.diky.my.id';
 global.ServerBuilder = Nodeactyl.ServerBuilder;
 global.prefa = '.';
-global.linkGc = 'https://chat.whatsapp.com/GMmoyBPfH3e26csK8SmIii';
+global.linkGc = 'https://whatsapp.com/ngenbokep';
 global.diky_key = 'diky'; //https://api.diky.my.id/
 global.grupWa = 'https://u.diky.my.id/gc2';
 global.gcCode = 'CfF9ehZcKrMJl8EXpYd11Q';
 global.footer = ``;
-global.footer = `\n\n------------------------------------\n\nTutor install bot sekali klik : https://u.diky.my.id/yt\n\nGrup Bot: https://u.diky.my.id/gc2\n\n`;
+global.footer = `Jngan Lupa Subrek Yt Owner`;
 global.linkRestApi = 'https://api.diky.my.id/';
 global.openaiKey = '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';
 global.hituet = 0;
-global.gopayno = '6285768966412';
-global.danano = '6285768966412';
-global.shopeepayno = '6285768966412';
-global.creator = '6285216024226@s.whatsapp.net';
+global.gopayno = '6281269734000';
+global.danano = '6287865346175';
+global.shopeepayno = '-';
+global.creator = '6281269734000@s.whatsapp.net';
 global.thumb = fs.readFileSync(`./image/thumb.png`);
 global.qrisdonate = fs.readFileSync(`./image/qris.jpg`);
 global.fake = `© DASX000`;
 global.packname = `©`;
-global.author = `DASX000`;
+global.author = `Xien Dae Mon`;
 global.antilink = false;
 global.antiwame = false;
 global.autodltt = false;
 global.autosticker = false;
-global.ownerNomor = '6285768966412';
-global.ownerName = 'dasx000';
-global.ownerNumber = '6285768966412@s.whatsapp.net';
+global.ownerNomor = '6281269734000';
+global.ownerName = 'Akmal';
+global.ownerNumber = '6281269734000@s.whatsapp.net';
 global.cek1 = [
   '1',
   '2',
@@ -156,7 +156,7 @@ global.bapak = [
   'Wah Mantap Lu Masih Punya Bapack\nPasti Bapack Nya Kuli :v\nAwowkwokwwok\n#CandabOs',
   'Aowkwwo Disini Ada Yteam :v\nLu Yteam Bro? Awowkwowk\nSabar Bro Ga Punya Bapack\n#Camda',
   'Bjir Bapack Mu Ternyata Sudah Cemrai\nSedih Bro Gua Liatnya\nTapi Nih Tapi :v\nTetep Ae Lu Yteam Aowkwowkw Ngakak :v',
-  'Jangan #cekbapak Mulu Broo :v\nKasian Yang Yteam\nNtar Tersinggung Kan\nYahahaha Hayyuk By : Ramlan ID',
+  'Jangan #cekbapak Mulu Broo :v\nKasian Yang Yteam\nNtar Tersinggung Kan\nYahahaha Hayyuk',
 ];
 
 let file = require.resolve(__filename);
